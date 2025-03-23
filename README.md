@@ -1,4 +1,4 @@
-## SentimentAnalysis on Movie Reviews
+## Sentiment Analysis on Movie Reviews
 
 This project demonstrates how to build a **sentiment analysis model** using **Logistic Regression** and **NLP techniques** to classify movie reviews as positive or negative. The model is trained on the **IMDB Movie Reviews dataset** and achieves an accuracy of **89%**.
 
